@@ -2,32 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lady L on S. Eads Street - 南一街</title>
-    <link>http://SouthEads.github.io/categories/lady-l/</link>
+    <link>/categories/lady-l/</link>
     <description>Recent content in Lady L on S. Eads Street - 南一街</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://SouthEads.github.io/categories/lady-l/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/lady-l/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Creating a New Theme</title>
-      <link>http://SouthEads.github.io/blog/creating-a-new-theme/</link>
+      <link>/blog/creating-a-new-theme/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://SouthEads.github.io/blog/creating-a-new-theme/</guid>
+      <guid>/blog/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title>Creating a New Theme Lady 2</title>
-      <link>http://SouthEads.github.io/blog/first/</link>
-      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://SouthEads.github.io/blog/first/</guid>
-      <description>我是Lady L 这是我们的模板.预览的时候会显示前面好几行内容，所以最好要把代码行不要放在最前面，否则会出现在预览页面中，排版就变得很诡异了。You have two ways to create a skin. The simplest way is to create it in the layouts/ directory. If you do, then you don’t have to worry about configuring Hugo to recognize it. The first place that Hugo will look for rules and files is in the layouts/ directory so it will always find the skin. You have two ways to create a skin. The simplest way is to create it in the layouts/ directory.</description>
     </item>
     
   </channel>
