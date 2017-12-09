@@ -6,10 +6,21 @@
     <description>Recent content in Blog on S. Eads Street - 南一街</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>上传新的文章</title>
+      <link>/blog/creating-a-new-blog/</link>
+      <pubDate>Sat, 09 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/creating-a-new-blog/</guid>
+      <description> 我的第一篇文章 如何上传新的文章
+利用图片链接转到YouTube视频 
+直接添加视频   </description>
+    </item>
     
     <item>
       <title>第四2017</title>
