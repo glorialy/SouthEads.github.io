@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on S. Eads Street - 南一街</title>
+    <title>S. Eads Street - 南一街</title>
     <link>southeads.com/categories/</link>
-    <description>Recent content in Categories on S. Eads Street - 南一街</description>
+    <description>Recent content on S. Eads Street - 南一街</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Jun 2017 00:00:00 +0000</lastBuildDate>
@@ -12,30 +12,39 @@
     
     
     <item>
-      <title></title>
-      <link>southeads.com/categories/</link>
+      <title>Fancy App 1</title>
+      <link>southeads.com/itemized/item1/</link>
       <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>southeads.com/categories/</guid>
-      <description></description>
+      <guid>southeads.com/itemized/item1/</guid>
+      <description> App 1 </description>
     </item>
     
     <item>
-      <title>Hugo</title>
-      <link>southeads.com/categories/hugo/</link>
-      <pubDate>Sun, 03 Dec 2017 00:00:00 +0000</pubDate>
+      <title>Fancy App 2</title>
+      <link>southeads.com/itemized/item2/</link>
+      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>southeads.com/categories/hugo/</guid>
-      <description></description>
+      <guid>southeads.com/itemized/item2/</guid>
+      <description> App 2 </description>
     </item>
     
     <item>
-      <title>Lady L</title>
-      <link>southeads.com/categories/lady-l/</link>
-      <pubDate>Sat, 09 Dec 2017 00:00:00 +0000</pubDate>
+      <title>Fancy App 3</title>
+      <link>southeads.com/itemized/item3/</link>
+      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>southeads.com/categories/lady-l/</guid>
-      <description></description>
+      <guid>southeads.com/itemized/item3/</guid>
+      <description> App 3 </description>
+    </item>
+    
+    <item>
+      <title>Fancy App 4</title>
+      <link>southeads.com/itemized/item4/</link>
+      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>southeads.com/itemized/item4/</guid>
+      <description> App 4 </description>
     </item>
     
   </channel>
