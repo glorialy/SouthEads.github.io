@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on S. Eads Street - 南一街</title>
-    <link>/blog/</link>
+    <link>southeads.com/blog/</link>
     <description>Recent content in Blog on S. Eads Street - 南一街</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 09 Dec 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="southeads.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>上传新的文章</title>
-      <link>/blog/creating-a-new-blog/</link>
+      <link>southeads.com/blog/creating-a-new-blog/</link>
       <pubDate>Sat, 09 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/blog/creating-a-new-blog/</guid>
+      <guid>southeads.com/blog/creating-a-new-blog/</guid>
       <description> 我的第一篇文章 如何上传新的文章
-利用图片链接转到YouTube视频 
+利用图片链接转到YouTube视频   
 直接添加视频   </description>
     </item>
     
     <item>
       <title>第四2017</title>
-      <link>/blog/fourth22/</link>
+      <link>southeads.com/blog/fourth22/</link>
       <pubDate>Sun, 03 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/blog/fourth22/</guid>
+      <guid>southeads.com/blog/fourth22/</guid>
       <description>&lt;h2 id=&#34;step-1-install-hugo&#34;&gt;Step 1. Install Hugo&lt;/h2&gt;
 
 &lt;p&gt;Go to &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the
@@ -35,26 +35,26 @@ appropriate version for your os and architecture.&lt;/p&gt;
 
 &lt;p&gt;Save it somewhere specific as we will be using it in the next step.&lt;/p&gt;
 
-&lt;p&gt;More complete instructions are available at &lt;a href=&#34;/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;
+&lt;p&gt;More complete instructions are available at &lt;a href=&#34;southeads.com/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Creating a New Theme</title>
-      <link>/blog/creating-a-new-theme/</link>
+      <link>southeads.com/blog/creating-a-new-theme/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/blog/creating-a-new-theme/</guid>
+      <guid>southeads.com/blog/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>第四2014</title>
-      <link>/blog/fourth/</link>
+      <link>southeads.com/blog/fourth/</link>
       <pubDate>Tue, 02 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>/blog/fourth/</guid>
+      <guid>southeads.com/blog/fourth/</guid>
       <description>&lt;h2 id=&#34;step-1-install-hugo&#34;&gt;Step 1. Install Hugo&lt;/h2&gt;
 
 &lt;p&gt;Go to &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the
@@ -62,7 +62,7 @@ appropriate version for your os and architecture.&lt;/p&gt;
 
 &lt;p&gt;Save it somewhere specific as we will be using it in the next step.&lt;/p&gt;
 
-&lt;p&gt;More complete instructions are available at &lt;a href=&#34;/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;
+&lt;p&gt;More complete instructions are available at &lt;a href=&#34;southeads.com/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;
 &lt;/p&gt;</description>
     </item>
     
