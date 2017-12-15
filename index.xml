@@ -23,23 +23,6 @@
     </item>
     
     <item>
-      <title>第四2017</title>
-      <link>/blog/fourth22/</link>
-      <pubDate>Sun, 03 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/fourth22/</guid>
-      <description>&lt;h2 id=&#34;step-1-install-hugo&#34;&gt;Step 1. Install Hugo&lt;/h2&gt;
-
-&lt;p&gt;Go to &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the
-appropriate version for your os and architecture.&lt;/p&gt;
-
-&lt;p&gt;Save it somewhere specific as we will be using it in the next step.&lt;/p&gt;
-
-&lt;p&gt;More complete instructions are available at &lt;a href=&#34;/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Creating a New Theme</title>
       <link>/blog/creating-a-new-theme/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
@@ -83,23 +66,6 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       
       <guid>/itemized/item4/</guid>
       <description> App 4 </description>
-    </item>
-    
-    <item>
-      <title>第四2014</title>
-      <link>/blog/fourth/</link>
-      <pubDate>Tue, 02 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/fourth/</guid>
-      <description>&lt;h2 id=&#34;step-1-install-hugo&#34;&gt;Step 1. Install Hugo&lt;/h2&gt;
-
-&lt;p&gt;Go to &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the
-appropriate version for your os and architecture.&lt;/p&gt;
-
-&lt;p&gt;Save it somewhere specific as we will be using it in the next step.&lt;/p&gt;
-
-&lt;p&gt;More complete instructions are available at &lt;a href=&#34;/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;
-&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -3,13 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/blog/creating-a-new-blog/</loc>
-    <lastmod>2017-12-09T00:00:00+00:00</lastmod>
+    <loc>/about/</loc>
+    <lastmod>2017-12-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/fourth22/</loc>
-    <lastmod>2017-12-03T00:00:00+00:00</lastmod>
+    <loc>/blog/creating-a-new-blog/</loc>
+    <lastmod>2017-12-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -38,16 +38,6 @@
   </url>
   
   <url>
-    <loc>/blog/fourth/</loc>
-    <lastmod>2014-09-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
     <lastmod>2017-06-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -67,12 +57,6 @@
   
   <url>
     <loc>/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>/categories/hugo/</loc>
-    <lastmod>2017-12-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
