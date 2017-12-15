@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>家长里短 on S. Eads Street - 南一街</title>
+    <link>/categories/%E5%AE%B6%E9%95%BF%E9%87%8C%E7%9F%AD/</link>
+    <description>Recent content in 家长里短 on S. Eads Street - 南一街</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/%E5%AE%B6%E9%95%BF%E9%87%8C%E7%9F%AD/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>无分类文章</title>
+      <link>/blog/another/</link>
+      <pubDate>Sat, 09 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/another/</guid>
+      <description>测试没有类别的新文章 如何上传新的文章</description>
+    </item>
+    
+  </channel>
+</rss>

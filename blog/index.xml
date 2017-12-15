@@ -23,6 +23,15 @@
     </item>
     
     <item>
+      <title>无分类文章</title>
+      <link>/blog/another/</link>
+      <pubDate>Sat, 09 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/another/</guid>
+      <description>测试没有类别的新文章 如何上传新的文章</description>
+    </item>
+    
+    <item>
       <title>Creating a New Theme</title>
       <link>/blog/creating-a-new-theme/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>

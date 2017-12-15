@@ -6,26 +6,34 @@
     <description>Recent content in Categories on S. Eads Street - 南一街</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Jun 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
-      <link>/categories/</link>
-      <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
+      <title>家长里短</title>
+      <link>/categories/%E5%AE%B6%E9%95%BF%E9%87%8C%E7%9F%AD/</link>
+      <pubDate>Sat, 09 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/categories/</guid>
+      <guid>/categories/%E5%AE%B6%E9%95%BF%E9%87%8C%E7%9F%AD/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Lady L</title>
-      <link>/categories/lady-l/</link>
+      <title>有点儿意思的碎碎念</title>
+      <link>/categories/%E6%9C%89%E7%82%B9%E5%84%BF%E6%84%8F%E6%80%9D%E7%9A%84%E7%A2%8E%E7%A2%8E%E5%BF%B5/</link>
       <pubDate>Sat, 09 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/categories/lady-l/</guid>
+      <guid>/categories/%E6%9C%89%E7%82%B9%E5%84%BF%E6%84%8F%E6%80%9D%E7%9A%84%E7%A2%8E%E7%A2%8E%E5%BF%B5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>柴米油盐</title>
+      <link>/categories/%E6%9F%B4%E7%B1%B3%E6%B2%B9%E7%9B%90/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/%E6%9F%B4%E7%B1%B3%E6%B2%B9%E7%9B%90/</guid>
       <description></description>
     </item>
     

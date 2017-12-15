@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>有点儿意思的碎碎念 on S. Eads Street - 南一街</title>
+    <link>/categories/%E6%9C%89%E7%82%B9%E5%84%BF%E6%84%8F%E6%80%9D%E7%9A%84%E7%A2%8E%E7%A2%8E%E5%BF%B5/</link>
+    <description>Recent content in 有点儿意思的碎碎念 on S. Eads Street - 南一街</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/%E6%9C%89%E7%82%B9%E5%84%BF%E6%84%8F%E6%80%9D%E7%9A%84%E7%A2%8E%E7%A2%8E%E5%BF%B5/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>上传新的文章</title>
+      <link>/blog/creating-a-new-blog/</link>
+      <pubDate>Sat, 09 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/creating-a-new-blog/</guid>
+      <description> 我的第一篇文章 如何上传新的文章
+利用图片链接转到YouTube视频   
+直接添加视频   </description>
+    </item>
+    
+  </channel>
+</rss>
