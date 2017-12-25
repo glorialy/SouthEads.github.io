@@ -3,28 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/blog/20171225/</loc>
+    <lastmod>2017-12-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/about/</loc>
     <lastmod>2017-12-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/creating-a-new-blog/</loc>
-    <lastmod>2017-12-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/another/</loc>
-    <lastmod>2017-12-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/creating-a-new-theme/</loc>
-    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/</loc>
-    <lastmod>2017-12-09T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -39,7 +29,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2017-12-09T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -50,19 +40,19 @@
   
   <url>
     <loc>/categories/%E5%AE%B6%E9%95%BF%E9%87%8C%E7%9F%AD/</loc>
-    <lastmod>2017-12-09T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/%E6%9C%89%E7%82%B9%E5%84%BF%E6%84%8F%E6%80%9D%E7%9A%84%E7%A2%8E%E7%A2%8E%E5%BF%B5/</loc>
-    <lastmod>2017-12-09T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/%E6%9F%B4%E7%B1%B3%E6%B2%B9%E7%9B%90/</loc>
-    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
